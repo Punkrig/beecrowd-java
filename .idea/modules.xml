@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1001/1001.iml" filepath="$PROJECT_DIR$/1001/1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beecrowd-java.iml" filepath="$PROJECT_DIR$/.idea/beecrowd-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1002/uri1002.iml" filepath="$PROJECT_DIR$/uri1002/uri1002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1003/uri1003.iml" filepath="$PROJECT_DIR$/uri1003/uri1003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1004/uri1004.iml" filepath="$PROJECT_DIR$/uri1004/uri1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1005/uri1005.iml" filepath="$PROJECT_DIR$/uri1005/uri1005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1006/uri1006.iml" filepath="$PROJECT_DIR$/uri1006/uri1006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1007/uri1007.iml" filepath="$PROJECT_DIR$/uri1007/uri1007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1008/uri1008.iml" filepath="$PROJECT_DIR$/uri1008/uri1008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1009/uri1009.iml" filepath="$PROJECT_DIR$/uri1009/uri1009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1010/uri1010.iml" filepath="$PROJECT_DIR$/uri1010/uri1010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri1011/uri1011.iml" filepath="$PROJECT_DIR$/uri1011/uri1011.iml" />
+    </modules>
+  </component>
+</project>
